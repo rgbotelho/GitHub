@@ -9,7 +9,8 @@ Reescreve e melhora seus prompts antes de enviar, com um botão **✨ Prompt Mas
 No prompt de uma sessão do Claude Code no terminal:
 
 ```
-/plugin install prompt-master --marketplace rgbotelho/GitHub
+/plugin marketplace add rgbotelho/GitHub
+/plugin install prompt-master@rgbotelho-mods
 ```
 
-Responda `y` para adicionar o marketplace e escolha o escopo (usuário ou projeto).
+Escolha o escopo (usuário ou projeto) quando for perguntado. Funciona no Claude Code do terminal; o app web/celular não tem o comando `/plugin`.

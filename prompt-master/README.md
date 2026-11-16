@@ -9,7 +9,8 @@ Mod do Claude Code que melhora seus prompts antes de enviar.
 ## Instalação
 
 ```
-/plugin install prompt-master --marketplace rgbotelho/GitHub
+/plugin marketplace add rgbotelho/GitHub
+/plugin install prompt-master@rgbotelho-mods
 ```
 
-Responda `y` para adicionar o marketplace e escolha o escopo.
+Escolha o escopo quando for perguntado. Funciona no Claude Code do terminal; o app web/celular não tem o comando `/plugin`.
