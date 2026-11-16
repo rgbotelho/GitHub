@@ -1,0 +1,1 @@
+{ "name": "prompt-master", "version": "0.1.0", "description": "Reescreve e melhora o prompt antes de enviar, com botão Prompt Master acima do campo de prompt.", "types": "./types/index.d.ts" }

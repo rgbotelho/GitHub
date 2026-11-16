@@ -1,0 +1,5 @@
+{
+  "name": "rgbotelho-mods",
+  "owner": { "name": "rgbotelho" },
+  "plugins": [{ "name": "prompt-master", "source": "./prompt-master", "description": "Reescreve e melhora o prompt antes de enviar, com botão Prompt Master acima do campo de prompt." }]
+}
